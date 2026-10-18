@@ -1,0 +1,10 @@
+{
+  "holdout_start": "2026-09-03",
+  "holdout_end": "2026-09-30",
+  "holdout_mae_unscaled": 5.2309,
+  "holdout_mae_scaled": 5.0763,
+  "scale": 0.875,
+  "train_start": "2025-10-01",
+  "train_end": "2026-09-30",
+  "train_days": 363
+}
